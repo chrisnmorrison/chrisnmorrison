@@ -5,8 +5,8 @@
 ## 🏢 My Top Professional Experience
 
 - Several years building apps with Django, PostgreSQL, MongoDB, .NET, Power Platform, and more. I also tinker with Next.js, React, and Astro in my free time.  
-- Around two years as a Database Administrator managing enterprise databases for apps and analytics.  
-- Almost five years as a Behavioural Counsellor, blending mental health support with youth work, a perspective I bring to product design and teamwork.  
+- Around two years as a Database Administrator managing enterprise databases for critical applications and big data analytics.  
+- Almost five years as a Behavioural Counsellor, blending mental health support with youth work, a unique perspective I bring to product design and teamwork.  
 - Volunteered three years on a mental health crisis hotline, one of the most challenging and rewarding chapters of my life.
 
 ## 🔭 I’m currently working on
