@@ -4,24 +4,25 @@
 
 ## 🏢 My Top Professional Experience
 
-- Several years building apps with Django, PostgreSQL, MongoDB, .NET, and more. I also tinker with Next.js, React, and Astro in my free time.  
+- Several years building apps with .NET, Django, PostgreSQL, MongoDB, .NET, and more. I also tinker with Next.js, React, and Astro in my free time.
+- Several years developing on Azure.
 - Around two years as a Database Administrator managing enterprise databases for critical applications and big data analytics.  
 - Almost five years as a Behavioural Counsellor, blending mental health support with youth work, a unique perspective I bring to product design and teamwork.  
 - Volunteered three years on a mental health crisis hotline, one of the most challenging and rewarding chapters of my life.
 
 ## 🔭 I’m currently working on
 - A browser extension that replaces the "New tab" with a nonprofit-supporting RSS feed aggregator.  
-- A full-stack ML-powered French learning app using Next.js, Prisma, PostgreSQL, TensorFlow, scikit-learn, and spaCy.
+- A full-stack ML-powered French learning app using Next.js, Prisma, PostgreSQL, PyTorch, scikit-learn, and spaCy.
 
 ## 🌱 I’m currently learning
-- Deepening my understanding of machine learning theory and tools like TensorFlow and spaCy.  
+- Deepening my understanding of machine learning theory and tools like PyTorch and spaCy.  
 - Improving advanced developer skills like scalable architecture, secure coding, performance, cybersecurity, and cross-team collaboration.
 
 ## 👯 I’m looking to collaborate on
 - Projects that make a real impact and put people first.
 
 ## 💬 Ask me about
-- How my mental health work and crisis hotline experience influence my tech work.
+- How my work in mental health and my crisis hotline experience influence my tech work.
 
 ## 📫 How to reach me
 - **LinkedIn (best way to connect):** [in/chris-morrison-180072](https://www.linkedin.com/in/chris-morrison-180072)  
